@@ -22,13 +22,17 @@ Possibilidades
 
 ![image](https://github.com/user-attachments/assets/b45cfc7f-c865-4be1-b398-310e2c6b80d6)
 
+![image](https://github.com/user-attachments/assets/5182a9f3-21ce-4c9c-abdc-4c56d9955766)
+
+![image](https://github.com/user-attachments/assets/0754f0f9-f182-40ec-b519-a3486a5a1da7)
+
+![image](https://github.com/user-attachments/assets/6f0fcf31-b0bb-4ccb-bcea-b049e1a289d2)
 
 
-![letter](https://github.com/user-attachments/assets/a9f5ca79-2405-4c33-9b33-38200228533e)
 
-![note](https://github.com/user-attachments/assets/a4c82e2b-e148-4c8b-b724-d70c0cc10091)
 
-![receipt](https://github.com/user-attachments/assets/d560ff89-0e9c-4591-8613-5d52152685d9)
+
+
 
 
 
