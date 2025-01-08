@@ -18,13 +18,14 @@ Possibilidades
 - Análise de Dados: Utilize os dados extraídos para análises mais profundas e geração de relatórios.
 - Aplicações Personalizadas: Desenvolva aplicações personalizadas que utilizem o reconhecimento de texto para oferecer novas funcionalidades aos usuários.
 
-![1](https://github.com/user-attachments/assets/eae34372-4d85-41d4-8c30-81f34d98b1ed)
+![advert](https://github.com/user-attachments/assets/c51a2a8b-dd37-4fde-88fa-58aa571f7d7b)
 
-![2](https://github.com/user-attachments/assets/2df8ac95-5ce7-4835-892a-eaba506b27d3)
+![letter](https://github.com/user-attachments/assets/a9f5ca79-2405-4c33-9b33-38200228533e)
 
-![3](https://github.com/user-attachments/assets/ab7e6d9d-7296-4397-b29d-0c0f5bcd0422)
+![note](https://github.com/user-attachments/assets/a4c82e2b-e148-4c8b-b724-d70c0cc10091)
 
-![4](https://github.com/user-attachments/assets/fe9da531-a619-4fb3-b6bb-dd138828e708)
+![receipt](https://github.com/user-attachments/assets/d560ff89-0e9c-4591-8613-5d52152685d9)
+
 
 
 
