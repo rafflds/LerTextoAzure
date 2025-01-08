@@ -20,7 +20,8 @@ Possibilidades
 
 ## Imagens selecionadas para o experimento
 
-![image](https://github.com/user-attachments/assets/909ef4fc-8baa-4f4a-9452-5d4cb03b3d19)
+![image](https://github.com/user-attachments/assets/b45cfc7f-c865-4be1-b398-310e2c6b80d6)
+
 
 
 ![letter](https://github.com/user-attachments/assets/a9f5ca79-2405-4c33-9b33-38200228533e)
